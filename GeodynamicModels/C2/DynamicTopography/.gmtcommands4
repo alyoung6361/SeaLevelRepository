@@ -1,0 +1,8 @@
+# GMT common arguments shelf
+-Ba200f100:Dynamic topography [m]:
+-JW0/20c
+-Rg
+-X0.75
+-Y5.0
+-jW0/20c
+EOF
