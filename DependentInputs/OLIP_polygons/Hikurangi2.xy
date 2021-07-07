@@ -1,0 +1,63 @@
+>anchorPlateId 0
+>reconstructionTime 0
+>Ontong.gpml Hess.gpml broken_ridge.gpml centralKerguelen.gpml northKerguelen.gpml Manihiki.gpml Africa.gpml Shatsky.gpml elan.gpml madagascar.gpml southernKerguelen.gpml conrad.gpml Agrentine.gpml iceland.gpml Hikurangi2.gpml delCano.gpml Hikurangi.gpml antarctic.gpml MendelevRidge2.gpml MendelevRidge.gpml chagon.gpml
+>
+>LargeIgneousProvince <identity>GPlates-f9163a64-14e5-4fcf-a609-95e8741dfece</identity> <revision>GPlates-2e500434-beb5-4438-971f-59109e17af8b</revision>
+> name HIKURANGI PLATEAU, SW PACIFIC
+> description 
+> shapefileAttributes KeyValueDictionary ( PLATEID1,  983) ( TYPE,  VP) ( FROMAGE,  120) ( TOAGE,  0) ( NAME,  HIKURANGI PLATEAU, SW PACIFIC) ( DESCR,  ) ( GPGIM_TYPE,  gpml:LargeIgneousProvince) ( FEATURE_ID,  GPlates-8f106ebb-750d-4ed1-b453-6ed8c7e0e98e) ( REF,  EarthByte Database) ( PLATEID2,  0) ( RECON_METH,  ) ( L_PLATE,  0) ( R_PLATE,  0) ( SPREAD_ASY,  0) ( IMPORT_AGE,  0)
+> validTime TimePeriod <begin> TimeInstant <timePosition>120</timePosition></begin> <end> TimeInstant <timePosition>0</timePosition></end>
+> reconstructionPlateId 983
+> geometryImportTime TimeInstant <timePosition>0</timePosition>
+> conjugatePlateId 0
+> leftPlate 0
+> rightPlate 0
+> spreadingAsymmetry 0
+  175.830000      -42.533899
+  175.129900      -42.548899
+  174.710501      -42.548899
+  174.308100      -42.526400
+  174.419703      -42.334200
+  174.487303      -42.214100
+  174.531301      -42.149000
+  174.724100      -42.071199
+  174.920202      -42.005899
+  175.119802      -41.932899
+  175.383501      -41.817099
+  175.569601      -41.736399
+  175.853701      -41.642900
+  176.002501      -41.592400
+  176.175001      -41.536699
+  176.333902      -41.483500
+  176.513201      -41.407499
+  176.699202      -41.326199
+  176.871599      -41.239799
+  177.084700      -41.155899
+  177.216600      -41.112600
+  177.321501      -41.074299
+  177.402601      -41.036100
+  177.544703      -40.803499
+  177.740801      -40.562399
+  178.082399      -40.072500
+  178.532202      -39.432899
+  178.917803      -38.845299
+  179.134199      -38.494099
+  179.262701      -38.234200
+  179.634802      -38.215599
+  179.803900      -37.885399
+  179.945902      -37.618000
+  179.982302      -37.544199
+  179.982302      -37.544199
+  179.969801      -42.551800
+  179.969801      -42.551800
+  179.272902      -42.556299
+  179.272902      -42.556299
+  178.491602      -42.556299
+  178.491602      -42.556299
+  177.730700      -42.563799
+  177.730700      -42.563799
+  177.027201      -42.568800
+  176.469202      -42.541399
+  176.469202      -42.541399
+  175.830000      -42.533899
+>

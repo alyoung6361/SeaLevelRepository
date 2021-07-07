@@ -1,0 +1,26 @@
+>anchorPlateId 0
+>reconstructionTime 0
+>
+>
+>LargeIgneousProvince <identity>GPlates-9dfc28a0-b065-4e38-841a-32cd0ead4ac6</identity> <revision>GPlates-ce4c718a-26f3-465b-a55b-d4eac5cd57c6</revision>
+> name Newfoundland_Ridge
+> description Atlantic
+> shapefileAttributes KeyValueDictionary ( PLATEID1,  101) ( FROMAGE,  103) ( TOAGE,  -999) ( NAME,  Newfoundland_Ridge) ( DESCR,  Atlantic) ( MatlabAr,  129900) ( AgeRef,  Duncan++_1984_JGR) ( AgeMethod,  Ar/Ar) ( PBType,  MOR) ( Dist2PB,  0) ( GPGIM_TYPE,  gpml:LargeIgneousProvince) ( FEATURE_ID,  GPlates-739fd9bd-01d0-47bb-8db7-efa671fbbd35) ( TYPE,  VP) ( IMPORT_AGE,  0) ( PLATEID2,  0) ( RECON_METH,  ) ( L_PLATE,  0) ( R_PLATE,  0) ( SPREAD_ASY,  0)
+> validTime TimePeriod <begin> TimeInstant <timePosition>103</timePosition></begin> <end> TimeInstant <timePosition>http://gplates.org/times/distantFuture</timePosition></end>
+> reconstructionPlateId 101
+> geometryImportTime TimeInstant <timePosition>0</timePosition>
+> conjugatePlateId 0
+> leftPlate 0
+> rightPlate 0
+> spreadingAsymmetry 0
+  -64.189763      38.926403
+  -62.082375      38.520633
+  -60.773439      39.175101
+  -57.906868      37.656735
+  -56.205251      35.287560
+  -57.042970      34.135696
+  -59.006375      35.496990
+  -59.870273      36.531050
+  -62.174001      37.800718
+  -64.189763      38.926403
+>

@@ -1,0 +1,50 @@
+>anchorPlateId 0
+>reconstructionTime 0
+>Ontong.gpml Hess.gpml broken_ridge.gpml centralKerguelen.gpml northKerguelen.gpml Manihiki.gpml Africa.gpml Shatsky.gpml elan.gpml madagascar.gpml southernKerguelen.gpml conrad.gpml Agrentine.gpml iceland.gpml Hikurangi2.gpml delCano.gpml Hikurangi.gpml antarctic.gpml MendelevRidge2.gpml MendelevRidge.gpml chagon.gpml
+>
+>LargeIgneousProvince <identity>GPlates-85516808-39d2-423a-8523-009076a057c3</identity> <revision>GPlates-e2aaafd6-6d2f-4915-a6ac-e15e8d72aeea</revision>
+> name Mendeleyev Ridge - Alvey et al. (2008) Fig1a bathymetry
+> description May be continental but volcanically intruded. Oldest basalts dated 86Ma.
+> shapefileAttributes KeyValueDictionary ( PLATEID1,  42100) ( TYPE,  VP) ( FROMAGE,  120) ( TOAGE,  0) ( NAME,  Mendeleyev Ridge - Alvey et al. (2008) Fig1a bathymetry) ( DESCR,  May be continental but volcanically intruded. Oldest basalts dated 86Ma.) ( GPGIM_TYPE,  gpml:LargeIgneousProvince) ( FEATURE_ID,  GPlates-ce17482a-8351-4138-bd9e-098910291921) ( REF,  EarthByte Database) ( PLATEID2,  0) ( RECON_METH,  ) ( L_PLATE,  0) ( R_PLATE,  0) ( SPREAD_ASY,  0) ( IMPORT_AGE,  0)
+> validTime TimePeriod <begin> TimeInstant <timePosition>120</timePosition></begin> <end> TimeInstant <timePosition>0</timePosition></end>
+> reconstructionPlateId 42100
+> geometryImportTime TimeInstant <timePosition>0</timePosition>
+> conjugatePlateId 0
+> leftPlate 0
+> rightPlate 0
+> spreadingAsymmetry 0
+  180.000000      83.499073
+  180.000000      75.672031
+  177.728745      75.904586
+  176.503247      76.308797
+  174.947360      76.736532
+  173.811733      77.229720
+  173.452847      77.740584
+  173.111229      78.169280
+  172.629745      78.581353
+  172.926434      78.810950
+  173.355572      79.049152
+  173.679673      79.259965
+  173.934694      79.451924
+  174.386232      79.647084
+  174.569081      79.836966
+  174.410532      80.122986
+  175.412237      80.307911
+  175.920412      80.534829
+  175.815343      80.771080
+  175.380955      81.003427
+  174.972151      81.150975
+  175.801801      81.263132
+  176.363159      81.523516
+  176.874130      81.697619
+  176.195440      81.895457
+  175.586636      82.127268
+  175.111329      82.292109
+  175.506410      82.483543
+  176.609669      82.629390
+  175.669017      82.876402
+  176.798938      83.106531
+  177.130496      83.329533
+  178.550511      83.522523
+  180.000000      83.499073
+>

@@ -1,0 +1,80 @@
+>anchorPlateId 0
+>reconstructionTime 0
+>Ontong.gpml Hess.gpml broken_ridge.gpml centralKerguelen.gpml northKerguelen.gpml Manihiki.gpml Africa.gpml Shatsky.gpml elan.gpml madagascar.gpml southernKerguelen.gpml conrad.gpml Agrentine.gpml iceland.gpml Hikurangi2.gpml delCano.gpml Hikurangi.gpml antarctic.gpml MendelevRidge2.gpml MendelevRidge.gpml chagon.gpml
+>
+>LargeIgneousProvince <identity>GPlates-06aabca3-e757-4975-becb-f7a46c649904</identity> <revision>GPlates-e4eedb95-57a1-40ec-854f-de673eeda8cb</revision>
+> name HIKURANGI PLATEAU, SW PACIFIC
+> description 
+> shapefileAttributes KeyValueDictionary ( PLATEID1,  983) ( TYPE,  VP) ( FROMAGE,  120) ( TOAGE,  0) ( NAME,  HIKURANGI PLATEAU, SW PACIFIC) ( DESCR,  ) ( GPGIM_TYPE,  gpml:LargeIgneousProvince) ( FEATURE_ID,  GPlates-0971e383-a66e-41c7-a212-82f6e8f45e23) ( REF,  EarthByte Database) ( PLATEID2,  0) ( RECON_METH,  ) ( L_PLATE,  0) ( R_PLATE,  0) ( SPREAD_ASY,  0) ( IMPORT_AGE,  0)
+> validTime TimePeriod <begin> TimeInstant <timePosition>120</timePosition></begin> <end> TimeInstant <timePosition>0</timePosition></end>
+> reconstructionPlateId 983
+> geometryImportTime TimeInstant <timePosition>0</timePosition>
+> conjugatePlateId 0
+> leftPlate 0
+> rightPlate 0
+> spreadingAsymmetry 0
+  -173.174999      -42.558800
+  -173.834499      -42.556299
+  -174.277599      -42.561300
+  -174.734100      -42.553900
+  -175.400400      -42.571299
+  -175.972000      -42.571299
+  -176.682199      -42.573799
+  -177.683300      -42.566299
+  -178.285299      -42.556299
+  -179.039499      -42.556299
+  -179.918800      -42.548899
+  -179.976799      -37.457399
+  -179.885000      -37.298500
+  -179.651600      -36.882999
+  -179.529900      -36.644600
+  -179.343899      -36.296499
+  -179.255899      -36.116400
+  -179.157799      -35.946800
+  -179.073299      -35.809799
+  -178.681000      -36.037100
+  -178.315699      -36.241999
+  -177.930199      -36.462599
+  -177.517599      -36.701599
+  -177.230099      -36.874899
+  -177.050800      -36.991199
+  -176.773500      -37.389900
+  -176.573999      -37.671499
+  -176.411600      -37.914700
+  -176.218899      -38.162399
+  -176.056499      -38.380199
+  -175.883999      -38.618399
+  -175.708200      -38.884800
+  -175.515400      -39.163300
+  -175.373400      -39.393700
+  -175.170399      -39.693600
+  -175.021599      -39.870300
+  -174.893099      -40.025900
+  -174.798399      -40.139700
+  -174.740900      -40.276600
+  -174.443300      -40.382299
+  -174.145700      -40.485300
+  -173.848099      -40.598400
+  -173.594400      -40.701000
+  -173.049900      -40.893099
+  -172.417400      -41.117699
+  -172.113100      -41.229700
+  -172.089399      -41.437899
+  -172.086000      -41.738899
+  -172.072500      -41.980700
+  -172.065699      -42.184000
+  -172.062300      -42.346699
+  -172.062300      -42.346699
+  -172.065699      -42.531399
+  -172.065699      -42.531399
+  -172.163799      -42.506500
+  -172.163799      -42.506500
+  -172.383600      -42.491499
+  -172.383600      -42.491499
+  -172.542599      -42.491499
+  -172.542599      -42.491499
+  -172.684599      -42.521500
+  -172.823299      -42.576300
+  -172.823299      -42.576300
+  -173.174999      -42.558800
+>
